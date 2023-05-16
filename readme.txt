@@ -5,4 +5,4 @@ Synchronization is done periodically, depending of sync_interval parameter, duri
 The script can be run using command line parameters.
 eg: python main.py -s "sourced" -r "replica" -si 5 -rt 10
 
-To see more info about commang line parameters, use: python main.py -h.
+To see more info about command line parameters, use: python main.py -h.
