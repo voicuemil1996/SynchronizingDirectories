@@ -1,0 +1,1 @@
+Copied directory s from D:\python-Projects\syncDirs\source to D:\python-Projects\syncDirs\replica
